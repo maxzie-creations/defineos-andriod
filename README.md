@@ -1,16 +1,15 @@
 # DefineOS-andriod
 An Andriod ROM custom-built to be as minimalist and fast as possible.
 
-Supported Devices [as of now]
--Tecno Spark 20c
--Infinix Smart 7
+# Supported Devices [as of now]
+Tecno Spark 20c and Infinix Smart 7
 
-Required Tools
--A Windows Device
--Shizuku 
--DSU Sideloader
--Root on your device
+# Required Tools
+A Windows Device
+, Shizuku 
+, DSU Sideloader
+, Root on your device
 
-How to install?
+# How to install?
 {no info yet}
 
