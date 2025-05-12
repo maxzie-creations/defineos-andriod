@@ -15,7 +15,7 @@ A Windows Device
 , Your device's stock rom vbeta.img file [optional]
 
 
-# How to install? [Do it at your own risk, we are not responsible for the damanges, or a bricked device, or world war 3]
+# How to install? [Do it at your own risk, we are not responsible for the damanges, or a bricked device, or world war 3] :3 
 go to adb shell then do:
 adb reboot bootloader |
 wait for you device to reboot and then:
